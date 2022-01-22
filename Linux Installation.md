@@ -30,7 +30,9 @@ Installation auf einem Linux-Server
 
 die config.ini sollte sich in einem Editor öffnen. Zuerst trägst du deine Region ein. (deutsch = de) Darunter gibtst du deine Leitstellenspiel Logindaten an, für den Account den du im Dashboard eingetragen hast.
 
-6. sobald alle Schritte fehlerfrei erledigt sind, kannst du den Bot mittels: python3.9 MissionChiefBot.py starten. Er sollte daraufhin anfangen die Missionen nacheinander runterzuladen. 
+6. sobald alle Schritte fehlerfrei erledigt sind, kannst du den Bot mittels: 
+		python3.9 MissionChiefBot.py 
+8. starten. Er sollte daraufhin anfangen die Missionen nacheinander runterzuladen. 
 
 bei Fragen oder Problemen, wende dich gerne in Discord an mich! 
 Chris-#2001
