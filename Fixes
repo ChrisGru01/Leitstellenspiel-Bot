@@ -1,0 +1,6 @@
+Es gibt Missionen die Unmengen an z.B. NAW benötigen obwohl lediglich eines pro Rettungswache erworben werden kann. 
+Hier zu werden Fahrzeuge in der vehiclesignorelist.json hinzugefügt. 
+
+Fixes: 
+
+- missing rtw, naw x (X) = ID "74" ignorieren
