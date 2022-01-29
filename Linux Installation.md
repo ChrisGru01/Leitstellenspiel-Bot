@@ -17,7 +17,7 @@ Installation auf einem Linux-Server
 
 		unzip Mission-Chief-Bot-linux-mac.zip
 
-		cd Mission-Chief-Bot-linux-mac/
+		cd Mission-Chief-Bot-mac/
 		
 		python3.9 -m pip install discord-webhook
 
