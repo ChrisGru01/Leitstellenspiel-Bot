@@ -37,4 +37,4 @@ python3.9 MissionChiefBot.py
 starten. Er sollte daraufhin anfangen die Missionen nacheinander runterzuladen. 
 
 bei Fragen oder Problemen, wende dich gerne in Discord an mich! 
-Chris-#2001
+Chris-#4961
