@@ -1,4 +1,4 @@
-Installation auf einem Linux-Server
+Installation auf einem Linux-Server. (UBUNTU 21 EMPFOHLE)
 
 
 1. registriere dich auf: https://missionchiefbot.com/
@@ -22,6 +22,10 @@ Installation auf einem Linux-Server
 		python3.9 -m pip install discord-webhook
 
 		python3.9 -m pip install googletrans
+		
+		python3.9 -m pip install lxml
+
+		python3.9 -m pip install bs4
 
 		python3.9 -m pip install -r requirements.txt
 
