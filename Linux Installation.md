@@ -1,4 +1,4 @@
-Installation auf einem Linux-Server. (UBUNTU 21 EMPFOHLE)
+Installation auf einem Linux-Server. (UBUNTU 21 EMPFOHLEN)
 
 
 1. registriere dich auf: https://missionchiefbot.com/
@@ -7,7 +7,7 @@ Installation auf einem Linux-Server. (UBUNTU 21 EMPFOHLE)
 
 3. gehe auf https://missionchiefbot.com/dashboard , und klicke auf "Edit users". Hier trägst du den ingame Namen deines Leitstellenspiel Accounts ein, für den du den Bot erstellen möchtest.
 
-4. um die passende Linux-Python Version zu installieren, folge bitte diesem Tutorial: https://stackoverflow.com/a/64353748
+4. um die passende Linux-Python Version zu installieren,(BEI UBUNTU 21 NICHT NÖTIG) folge bitte diesem Tutorial: https://stackoverflow.com/a/64353748
 
 5. öffne ein Terminal und navigiere mittels "cd" Befehl in deinen Wunschordner und gib folgende Befehle nacheinander ein:
 
